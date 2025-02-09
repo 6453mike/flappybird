@@ -1,3 +1,5 @@
+**** This is a test repo that was built purely using Github Copilot's Agent feature
+
 # Flappy Bird Web Game
 
 A web-based version of Flappy Bird that works on both desktop and mobile devices. Built with vanilla JavaScript and CSS, featuring smooth animations and pixel-perfect graphics.
